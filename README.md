@@ -1,4 +1,4 @@
 # demo_repo
 This is my first repo.
 <br>
-Author: Dharavath Shreyas
+Author: Dharavath Shreyas_IIT BHU
